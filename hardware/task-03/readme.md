@@ -13,7 +13,6 @@
 ## **__Challenges faced__**
 
 - **Learning to control Servo moter**: Learning the programming necessary.
--
 
 ## **__Resources/research you used__**
 
